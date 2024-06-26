@@ -1,9 +1,10 @@
-Welcome to your new dbt project!
+Welcome to my new DBT BG Project!
 
 ### Using the starter project
 
 Try running the following commands:
 - dbt run
+- dbt run -s stg_orders
 - dbt test
 
 
